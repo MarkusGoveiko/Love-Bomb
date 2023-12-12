@@ -1,0 +1,25 @@
+body{
+    background-color: blueviolet;
+    text-align: center;
+}
+.container{
+
+    border:solid 2px brown;
+    width: 500px;
+    margin: 0(auto);
+    height: 300px;
+}
+.input-box{
+display: inline-block;
+
+}
+.calculate-btn{
+margin: 20px auto;
+display: block;
+}
+
+#score-text{ 
+
+
+}
+
